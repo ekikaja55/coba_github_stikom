@@ -4,6 +4,7 @@ $chika = "halo";
 $angka = 5;
 $cipta = true;
 
+echo "halo candra fikri bayu seva chika";
 //concat digunakan untuk menggabungkan ( . )
 // echo $chika . "<br> " . $angka . "<br> " . $cipta;
 // = -> mengisi data
