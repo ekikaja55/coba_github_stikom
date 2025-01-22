@@ -1,0 +1,9 @@
+gunakan for dan if tampilkan kelipatan 2 nya
+
+contoh jika variabel n = 10
+
+di print 2,4,6,8,10
+
+misal n = 15
+
+2,4,6,8,10,12,14
